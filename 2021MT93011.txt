@@ -1,1 +1,4 @@
 Hello this is a Git assignment.
+Example of force push 
+commands used:
+git push --force
